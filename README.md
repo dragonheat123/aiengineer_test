@@ -9,7 +9,7 @@ two tracks.**
 
 | Track | Question it tests |
 | --- | --- |
-| **Track 1 — QnA frontend (CopilotKit)** | Can you build a trustworthy conversational interface over structured market data and unstructured policy documents? |
+| **Track 1 — QnA frontend** | Can you build a trustworthy conversational interface over structured market data and unstructured policy documents? |
 | **Track 2 — Battery charge/discharge pricing (data science)** | Can you turn raw prices and forecasts into a defensible marginal price for every unit of battery energy? |
 
 Read `data/SCHEMA.md` for the database schema and `docs/` for the policy corpus (Track 1's retrieval
