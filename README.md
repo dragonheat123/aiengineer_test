@@ -1,8 +1,7 @@
 # AI Engineer Take-Home Test — Battery Storage Market Data
 
 **Duration:** 1 day · **Format:** remote or onsite · **Schedule:** the data and briefs are
-distributed at the start; a 15-minute live demo follows at the end (not counted against the 2 hours —
-see *Live demo* below).
+distributed at the start; a 15-minute live demo follows at the end.
 
 You are given three months of real Australian National Electricity Market (NEM) data and a set of
 internal policy documents, and asked to build something useful on top of them. **Choose one of the
