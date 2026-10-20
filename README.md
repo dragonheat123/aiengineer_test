@@ -1,6 +1,6 @@
 # AI Engineer Take-Home Test — Battery Storage Market Data
 
-**Duration:** 2 hours · **Format:** remote or onsite · **Schedule:** the data and briefs are
+**Duration:** 1 day · **Format:** remote or onsite · **Schedule:** the data and briefs are
 distributed at the start; a 15-minute live demo follows at the end (not counted against the 2 hours —
 see *Live demo* below).
 
@@ -48,12 +48,10 @@ ai_engineer_test/
 
 ## Ground rules
 
-- **Time limit: 2 hours.** Stop when the timer stops. We grade the design doc first (see the
-  rubrics), so an incomplete submission with a clear design doc scores better than a rushed,
-  finished one.
-- **AI coding assistants are allowed and encouraged** — we are hiring an AI engineer, not a typist.
-  You are responsible for everything they produce; be prepared to explain any line of it. Both
-  briefs also require a short `AGENT_LOG.md`: a record of how you worked with the agents.
+- **Grading** We grade the design doc first (see the rubrics),
+  so an incomplete submission with a clear design doc scores better than a rushed, finished one.
+- **AI coding assistants are allowed and encouraged** — You are responsible for everything they produce;
+  be prepared to explain any line of it. Both briefs also require a short `AGENT_LOG.md`: a record of how you worked with the agents.
 - **Internet use:** you may install packages and read public documentation. You may **not** download
   other electricity datasets — everything needed for the analysis is in `data/*.parquet`.
 - **LLM API keys:** you must bring your own (any provider). Track 1 requires one. Never commit keys
