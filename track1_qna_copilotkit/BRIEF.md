@@ -1,4 +1,4 @@
-# Track 1 — Question-answering interface for market data and policy documents (CopilotKit)
+# Track 1 — Question-answering interface for market data and policy documents
 
 ## Task
 
@@ -28,7 +28,7 @@ dangerous in this domain. Your agent must:
 
 ## Minimum viable product (mandatory in the 2 hours)
 
-1. A **CopilotKit** chat UI (React): `@copilotkit/react-ui` and `@copilotkit/react-core`.
+1. Any webUI, either via **CopilotKit** chat UI (React): `@copilotkit/react-ui` and `@copilotkit/react-core` or google ADK web.
 2. An **agent runtime**: CopilotKit **CoAgents** / LangGraph runtime, or a custom Next.js API route.
    The runtime must have two tools:
    - A **SQL tool** for the Parquet data, through DuckDB, read-only.
