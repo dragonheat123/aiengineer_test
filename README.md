@@ -68,8 +68,7 @@ ai_engineer_test/
 | 45–105 | Build |
 | 105–120 | Smoke-test, write run instructions, prepare the demo |
 
-## Live demo (after the 2 hours)
-
+## Live demo 
 A 15-minute walkthrough: run your solution and answer 2–3 questions we choose (Track 1), or walk us
 through your findings and one chart (Track 2); then explain your design doc and describe one thing
 you would do with another day.
